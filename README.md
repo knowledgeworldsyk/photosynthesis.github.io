@@ -1,3 +1,2 @@
-# Photosynthesis.github.io
 This is my first website that I hosted in GitHub...
 # https://knowledgeworld-kw.github.io/photosynthesis.github.io/.
